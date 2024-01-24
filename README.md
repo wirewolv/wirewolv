@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wirewolv
 - 👀 I’m interested in poetry, veganism, rock climbing, photography, virtual orchestration and I have a recent crush for programming.
-- 🌱 I’m currently learning Python and Django. Absolute beginner level.
+- 🌱 I’m currently studying programming at a graduate level at Howest Bruges. 
 - 💞️ I’m looking to collaborate on anything that piques my interest.
 - 📫 How to reach me ... 
 
